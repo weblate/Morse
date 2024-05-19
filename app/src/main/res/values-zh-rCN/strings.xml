@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="future_release">将在未来版本中实现</string>
+    <string name="morse">摩斯电码</string>
+    <string name="settings">设置</string>
+    <string name="text">文本</string>
+    <string name="phrasebook">常用语表</string>
+    <string name="dit_dah">点击发短音，按住发长音</string>
+</resources>
