@@ -1,1 +1,1 @@
-Translate text to Morse code or vice versa in real time
+在文字和摩爾斯電碼之間即時翻譯
