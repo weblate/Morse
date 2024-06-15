@@ -1,1 +1,1 @@
-Fix Force Crash After Audio Playback 😎
+Resolvido o crash forçado depois de tocar áudio 😎
