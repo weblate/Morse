@@ -1,0 +1,8 @@
+- Resolvido #110: problema com falta de espaço
+- Resolvido #76: Código morse agora pode ser colado no campo de entrada Morse
+- Resolvido #131: NullPointerException
+- Atualizações de dependências
+- Atualizações de tradução
+
+Um enorme agradecimento a todos os contribuintes e tradutores. 😘
+Sinta-se à vontade para reportar problemas e enviar soluções em https://github.com/Crazy-Marvin/Morse/ or translations on https://hosted.weblate.org/engage/morse/. 🚀

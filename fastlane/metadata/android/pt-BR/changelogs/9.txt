@@ -1,0 +1,5 @@
+- Resolvido bug/crash ao mudar para o modo paisagem 🐛 (#126)
+- Suporte para Ñ ➕ (#124)
+- Suporte para ícones temáticos no Android 13+ 🎨 (#117)
+- Atualizações de dependências ⚙️
+- Atualizações de tradução 🗺️
