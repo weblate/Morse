@@ -333,6 +333,42 @@ public class MainActivity extends AppCompatActivity implements Camera.AutoFocusC
                 return ".-.-";
             case "ñ":
                 return "--.--";
+            case ",": 
+                return "--..--";
+            case ".": 
+                return ".-.-.-";
+            case "?": 
+                return "..--..";
+            case "'": 
+                return ".----.";
+            case "!": 
+                return "-.-.--";
+            case "/": 
+                return "-..-.";
+            case "(": 
+                return "-.--.";
+            case ")": 
+                return "-.--.-";
+            case "&": 
+                return ".-...";
+            case ":": 
+                return "---...";
+            case ";": 
+                return "-.-.-.";
+            case "=": 
+                return "-...-";
+            case "+": 
+                return ".-.-.";
+            case "-": 
+                return "-....-";
+            case "_": 
+                return "..--.-";
+            case '"': 
+                return ".-..-.";
+            case "$": 
+                return "...-..-";
+            case "@": 
+                return ".--.-.";
             default:
                 return "";
         }
@@ -420,8 +456,44 @@ public class MainActivity extends AppCompatActivity implements Camera.AutoFocusC
                 return "9";
             case "--.--":
                 return "ñ";
+            case "--..--": 
+                return ",";
+            case ".-.-.-": 
+                return ".";
+            case "..--..": 
+                return "?";
+            case ".----.": 
+                return "'";
+            case "-.-.--": 
+                return "!";
+            case "-..-.": 
+                return "/";
+            case "-.--.": 
+                return "(";
+            case "-.--.-": 
+                return ")";
+            case ".-...": 
+                return "&";
+            case "---...": 
+                return ":";
+            case "-.-.-.": 
+                return ";";
+            case "-...-": 
+                return "=";
+            case ".-.-.": 
+                return "+";
+            case "-....-": 
+                return "-";
+            case "..--.-": 
+                return "_";
+            case ".-..-.": 
+                return '"';
+            case "...-..-": 
+                return "$";
+            case ".--.-.": 
+                return "@";
         }
-
+        
         return "";
     }
 
