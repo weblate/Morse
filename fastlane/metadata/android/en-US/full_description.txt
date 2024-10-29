@@ -22,10 +22,8 @@ Morse code was first used for communicating via telegraph.
 The most well-known Morse code is SOS, which is used to signal an emergency.
 Aside from typing dots and dashed, you can also signal Morse code by turning light on and off, sounding a horn or tapping, etc.
 All means of transmitting Mores code require the recipient understands it.
-If not, our cipher tool can be used to find out the password, secret number, or any info you want to relay. 
-Since people rarely communicate via telegraph, or learn it in the military, very few people have Morse codes memorized.
-Instead, it has become a way to encode something for special purposes.
-It’s a useful language to know even if you just want to learn cryptography or solve cryptograms for fun.
+If not, our app may be used to find out the message, password, secret number, or any info you want to relay. 
+Nowadays, even though the use of the telegraph has been widely superseded by other communication technologies, Morse code still finds its place in the lives of various individuals. Due to its presence in popular culture, Morse code has been featured in movies, games, and other medias as a simple way to encode messages, inspiring fans to research and explore the language as part of fun, puzzle-solving activities. This makes it useful even in cryptography or cryptogram events as a handy encoding tool.
 
 1.	Tell others when you are in a dangerous situation (SOS).
 2.	Hide your secret number or password via dots and dashes.
