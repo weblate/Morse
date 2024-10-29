@@ -1,4 +1,3 @@
-
 Traduzir texto para código Morse ou decifrar código Morse, traduzindo-o para texto!
 É um aplicativo simples, fácil de usar, porém útil, que pode ajudá-lo de muitas maneiras.
 Você pode decifrar ou decodificar códigos Morse, pode criar um número secreto ou aprender a ser um criptógrafo ou aprender criptografia, e muito mais!
