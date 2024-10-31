@@ -1,41 +1,39 @@
-Descifra el código Morse a texto o el texto a código Morse
+Descifrar código Morse a texto o texto a código Morse
 
-Convierte cualquier texto en código Morse, o traduce el código Morse a texto y escucha los resultados.
+Convierta cualquier texto en código Morse o traduzca el código Morse a texto y escuche los resultados.
 
-- Diseño e interfaz limpios y modernos.
-- Fácil de usar para todo el mundo.
-- Traducción en tiempo real: escribe la palabra o el código y lo tendrás traducido inmediatamente.
-- Decodifica de morse a texto, o de texto a morse.
-- Pulsa el botón del altavoz para escuchar el código.
-- Copia el texto pulsando el botón "Copiar".
-- Escribe el punto y la raya con el teclado Morse incorporado. 
-- Software libre (https://github.com/Crazy-Marvin/Morse)
-+ Más funciones previstas.
+•	Diseño e interfaz de aplicación limpios y modernos.
+•	Diseñado para que todos puedan usarlo fácilmente.
+•	Traducción en tiempo real: escribe la palabra o el código y recíbelo traducido inmediatamente.
+•	Decodificar de Morse a texto, o de texto a Morse.
+•	Presione el botón del altavoz para escuchar el código.
+•	Copie el texto presionando el botón "Copiar".
+•	Escriba puntos y rayas utilizando nuestro teclado Morse incorporado. 
+•	Libre software (https://github.com/Crazy-Marvin/Morse)
++	Se planean más funciones.
 
-No dejes que los caracteres especiales o los puntos y rayas te confundan.
+No dejes que los caracteres especiales o los puntos y guiones te confundan.
 
 El código Morse es un sistema para codificar letras y números en signos de guiones y puntos.
-La duración de la raya es tres veces la del punto.
-Cada punto o raya va seguido de un periodo de ausencia de señal, llamado espacio, igual a la duración del punto.
+La duración de un guión es tres veces la duración de un punto.
+Cada punto o guión va seguido de un período de ausencia de señal, llamado espacio, igual a la duración del punto.
 
-El código Morse se utilizó por primera vez para comunicarse por telégrafo.
+El código Morse se utilizó por primera vez para comunicarse mediante telégrafo.
 El código Morse más conocido es el SOS, que se utiliza para señalar una emergencia.
-Además de teclear puntos y rayas, también se puede señalizar el código Morse encendiendo y apagando la luz, haciendo sonar una bocina o dando golpecitos, etc.
-Todas las formas de transmitir código Morse requieren que el destinatario lo entienda.
-Si no es así, puede utilizar nuestra herramienta de cifrado para averiguar la contraseña, el número secreto o cualquier información que desee transmitir. 
-Dado que la gente rara vez se comunica por telégrafo, o lo aprende en el ejército, muy pocas personas tienen memorizados los códigos Morse.
-En cambio, se ha convertido en una forma de codificar algo con fines especiales.
-Es un lenguaje útil de conocer incluso si sólo quieres aprender criptografía o resolver criptogramas por diversión.
+Además de escribir puntos y rayas, también puedes enviar señales en código Morse encendiendo y apagando la luz, haciendo sonar una bocina o tocando algo, etc.
+Todos los medios de transmisión del código Mores requieren que el receptor lo comprenda.
+De lo contrario, nuestra aplicación puede usarse para averiguar el mensaje, la contraseña, el número secreto o cualquier información que desee transmitir. 
+En la actualidad, aunque el uso del telégrafo ha sido ampliamente reemplazado por otras tecnologías de comunicación, el código Morse aún tiene su lugar en la vida de varias personas. Debido a su presencia en la cultura popular, el código Morse ha aparecido en películas, juegos y otros medios como una forma sencilla de codificar mensajes, inspirando a los fanáticos a investigar y explorar el lenguaje como parte de actividades divertidas de resolución de acertijos. Esto lo hace útil incluso en eventos de criptografía o criptogramas como una herramienta de codificación práctica.
 
-1.	Avisar a los demás cuando te encuentras en una situación peligrosa (SOS).
-2.	Ocultar tu número secreto o contraseña mediante puntos y guiones.
-3.	Cifrar o descifrar pistas ocultas en juegos.
-4.	Aprender criptografía o criptograma mediante el aprendizaje de códigos Morse.
+1.	Avisa a los demás cuando estás en una situación peligrosa (SOS).
+2.	Oculte su número secreto o contraseña mediante puntos y guiones.
+3.	Cifrar o descifrar pistas ocultas en los juegos.
+4.	Aprenda criptografía o criptograma a través del aprendizaje de códigos Morse.
 5.	Conviértete en un descifrador de códigos descifrando códigos secretos en traducción en tiempo real.
 6.  Crea un número secreto.
-+ Muchos más 
++   Muchos más 
 
 ---
-Realmente ayuda dejar una reseña o poner una estrella al proyecto en el repositorio de código fuente, y significa mucho para nosotros.
-Si tienes problemas al utilizar la aplicación, escríbenos un correo electrónico o abre una incidencia en GitHub.
+Realmente ayuda dejar una reseña o marcar el proyecto con una estrella en el repositorio de código fuente, y significa mucho para nosotros.
+Si tiene problemas al utilizar la aplicación, escriba un correo electrónico o abra un problema en GitHub.
 Las respuestas suelen ser inmediatas y los errores se solucionan lo antes posible.
