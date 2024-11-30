@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="morse">Morse</string>
+    <string name="text">Teksti</string>
+    <string name="phrasebook">Lausekirja</string>
+    <string name="settings">Asetukset</string>
+    <string name="future_release">Toteutetaan tulevassa julkaisussa</string>
+</resources>
