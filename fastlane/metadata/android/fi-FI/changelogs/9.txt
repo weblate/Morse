@@ -1,0 +1,5 @@
+- Korjaa virhe / kaatuminen, kun vaihdetaan vaakatilaan 🐛 (#126)
+- Tuki Ñ ➕ (#124)
+- Lisää tuki teemakuvakkeille Android v. 13+ -versiossa 🎨 (#117)
+- Riippuvuuspäivityksiä ⚙️
+- Käännöspäivityksiä 🗺️

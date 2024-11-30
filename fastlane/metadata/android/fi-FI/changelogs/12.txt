@@ -1,0 +1,8 @@
+- Korjattu #110: ei välilyöntiä -vika
+- Korjattu #76: Morse-koodi voidaan liittää Morse-syöttöruutuun nyt
+- Korjattu #131: NullPointerException
+- Riippuvuuspäivityksiä
+- Käännöspäivityksiä
+
+Suuri kiitos kaikille avustajille ja kääntäjille. 😘
+Voit ilmoittaa ongelmista ja lähettää korjauksia osoitteessa https://github.com/Crazy-Marvin/Morse/ tai käännöksiä osoitteessa https://hosted.weblate.org/engage/morse/. 🚀

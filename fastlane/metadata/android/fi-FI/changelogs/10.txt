@@ -1,0 +1,1 @@
+- Tukee sovelluskohtaisia kieliasetuksia (Android v. 13+) 🗺️
