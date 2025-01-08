@@ -1,0 +1,8 @@
+- Behoben #110: Leerzeichen Fehler
+- Behoben #76: Morsecode kann jetzt in das Eingabefeld kopiert werden
+- Behoben #131: NullPointerException
+- Aktualisierung von Abhängigkeiten
+- Aktualisierung von Übersetzungen
+
+Ein großes Dankeschön an alle Mitwirkende und Übersetzende. 😘
+Melde Probleme via https://github.com/Crazy-Marvin/Morse/ oder Übersetzungen via https://hosted.weblate.org/engage/morse/. 🚀

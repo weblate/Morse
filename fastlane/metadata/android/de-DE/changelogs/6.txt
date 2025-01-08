@@ -1,2 +1,2 @@
-Support digits
-Under the hood improvements
+Unterstützung von Ziffern
+Weitere Verbesserungen
