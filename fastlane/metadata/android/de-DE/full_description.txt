@@ -11,7 +11,7 @@ Eigenschaften:
 •Sauberes, modernes App-Design und Schnittstelle
 •Super einfach zu bedienen
 •Echtzeitübersetzung: Geben Sie das Wort oder den Code ein und wir übersetzen es Ihnen sofort
-•Decodierung von Morse zu Text oder Text nach Morse
+•Decodierung von Morsezeichen zu Text oder Text nach Morsezeichen
 •Drücken Sie das Lautsprechersymbol, um den Code zu hören
 •Kopieren Sie den Text durch Drücken der Kopiertaste
 •Geben Sie Punkt und Bindestrich mit unserer integrierten Morse-Tastatur ein
@@ -40,7 +40,7 @@ Wie Morse für Sie nützlich ist:
 2. Verstecke deine Geheimnummer oder dein Passwort über Punkte und Bindestriche.
 3. Verschlüssele/ entschlüssele versteckte Hinweise in Spielen.
 4. Lernen Sie Kryptographie oder Kryptogramm durch das Lernen von Morsecodes.
-5. Werden Sie ein Codebrecher, indem Sie geheime Codes in Echtzeitübersetzung entsclüsseln.
+5. Werden Sie ein Codebrecher, indem Sie geheime Codes in Echtzeitübersetzung entschlüsseln.
 6. Und vieles mehr!
 
 

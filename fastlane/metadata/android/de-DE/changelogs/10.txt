@@ -1,0 +1,1 @@
+- Unterstützung von App-Sprachen (Android 13+) 🗺️

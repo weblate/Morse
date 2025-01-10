@@ -1,2 +1,2 @@
-The app now offers intelligent suggestions
-It is now possible to use the flashlight for Morse signals
+Intelligente Empfehlungen werden jetzt von der App angeboten
+Die Taschenlampe kann jetzt für Morsezeichen verwendet werden
