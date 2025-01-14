@@ -1,0 +1,5 @@
+- Fehler/Absturz behoben beim Wechsel zum Querformat 🐛 (#126)
+- Unterstützung von Ñ ➕ (#124)
+- Unterstützung von thematischen Icons unter Android 13+ hinzugefügt 🎨 (#117)
+- Abhängigkeiten aktualisiert ⚙️
+- Übersetzungen aktualisiert 🗺️
